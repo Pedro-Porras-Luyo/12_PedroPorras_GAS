@@ -45,7 +45,7 @@ function myFunction() {
       /*MailApp.sendEmail(
         i.correo,
         "TPS report status",
-        `El correo te lo envia tu ${i.pariente} ${v.nombreA} para ti ${i.nombreM}`);*/
+        `El correo te lo envia tu ${i.pariente} ${v.nombreA} para ti ${i.nombreM}`).;*/
     })
   })
 
